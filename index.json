@@ -1,0 +1,50 @@
+[
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/awtk-v1.3/",
+	"title": "Awtk-v1.3",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/awtk-v1.3/awtk-v1.3+rc.1+fix.1aworks.2/",
+	"title": "awtk-v1.3+rc.1+fix.1@aworks.2",
+	"tags": [],
+	"description": "",
+	"content": " \n如果您针对某个芯片或平台移植过 AWTK，或者为 AWTK 扩展过炫酷的控件，并希望共享这个适配代码，可以联系我们开源到 GitHub 上，我们愿意在 AWTK 技术上对您提供进一步的支持服务，大家可以一起把这个适配做稳做好，构建 AWTK 良好的生态。\n进一步了解我们的 AWTK 生态共建计划\n索引  操作系统适配 MCU芯片适配 扩展控件 编程语言绑定 编译构建工具 商业应用案例  操作系统适配  桌面操作系统     操作系统 下载地址 作者11133     Windows https://github.com/zlgopen/awtk ZLG   Linux https://github.com/zlgopen/awtk ZLG   macOS https://github.com/zlgopen/awtk ZLG     嵌入式操作系统     操作系统 下载地址 作者     AWorksOS MCU芯片适配    嵌入式 Linux MCU芯片适配    RT-Thread MCU芯片适配    TencentOS MCU芯片适配    FreeRTOS MCU芯片适配    SylixOS https://github.com/zlgopen/awtk-sylixos ZLG     软件框架和软件平台     操作系统 下载地址 作者     海思Linux https://github.com/zlgopen/awtk-linux-fb/issues/28 kent52712   VSF平台 https://github.com/vsfteam/vsf vsfteam【原厂】   Wayland https://github.com/zjm1060/awtk-wayland zjm1060   Web https://github.com/zlgopen/awtk-web ZLG   Android https://github.com/zlgopen/awtk-android ZLG   iOS https://github.com/zlgopen/awtk-ios ZLG    MCU芯片适配 以下按芯片厂商名字字母排序\n Anyka     芯片 操作系统 下载地址 作者     AK376xD RT-Thread 请联系作者 Anyka【原厂】   AK376xD Linux 请联系作者 Anyka【原厂】     Espressif     芯片 操作系统 下载地址 作者     ESP32 FreeRTOS https://github.com/jason-mao/esp32-awtk jason-mao     GigaDevice     芯片 操作系统 下载地址 作者     GD32450Z 无 请联系作者 ZLG     Ingenic     芯片 操作系统 下载地址 作者     M200 Linux https://github.com/zlgopen/awtk-port-ingenic Ingenic【原厂】   X1000 Linux https://github.com/zlgopen/awtk-port-ingenic Ingenic【原厂】   X1830 Linux https://github.com/zlgopen/awtk-port-ingenic Ingenic【原厂】     ISSI MindMotion     芯片 操作系统 下载地址 作者     MM32F103RET6 无 请联系作者 MindMotion【原厂】     Nordic     芯片 操作系统 下载地址 作者     NRF52840 FreeRTOS 请联系作者 jimmywong2003     NXP     芯片 操作系统 下载地址 作者     RT1052 AWorksOS https://github.com/zlgopen/awtk-aworks-rt1052 ZLG   RT1052 无 https://github.com/zlgopen/awtk-easyarm-rt1052-raw ZLG   RT1052 FreeRTOS https://github.com/chinachuli/awtk-imxrt1052-raw 褚立   RT1020 AWorksOS 请联系作者 ZLG   i.MX6 Cortex-A7 AWorksOS 请联系作者 ZLG   i.MX6 Cortex-A7 Linux https://github.com/zlgopen/awtk-linux-fb ZLG   i.MX6 Cortex-A9 Linux https://github.com/zlgopen/awtk-linux-fb ZLG   i.MX283 Linux https://github.com/zlgopen/awtk-linux-fb ZLG   LPC54608 无 请联系作者 ZLG   LPC54018 无 请联系作者 ZLG     ST     芯片 操作系统 下载地址 作者     STM32F103 无 https://github.com/zlgopen/awtk-stm32f103ze-raw ZLG   STM32F103 RT-Thread https://github.com/zlgopen/awtk-stm32f103ze-rtthread ZLG   STM32F103 TencentOS https://github.com/zlgopen/awtk-stm32f103ze-tencentos ZLG   STM32F429 无 https://github.com/zlgopen/awtk-stm32f429igtx-raw ZLG   STM32F767 无 https://github.com/zlgopen/awtk-stm32f767igtx-raw ZLG   STM32F769 FreeRTOS https://github.com/wpmyj/awtk-stm32f769-freertos 王培明     以上信息如果有误，或需要补充的，请联系 chentan@zlg.cn 修正\n 扩展控件  基本控件     控件名称 下载地址 作者     二维码 https://github.com/CUITzhaoqi/awtk-qr CUITzhaoqi   圆形滑块 https://github.com/longyuwlz/awtk_slider_circle longyuwlz     图表控件     控件名称 下载地址 作者     饼图 https://github.com/zlgopen/awtk-examples ZLG   柱状图 https://github.com/zlgopen/awtk-examples ZLG   曲线图 https://github.com/zlgopen/awtk-examples ZLG    编程语言绑定  C     解析引擎 下载地址 作者     C99 https://github.com/zlgopen/awtk ZLG     JavaScript     解析引擎 下载地址 作者     JerryScript https://github.com/zlgopen/awtk-jerryscript ZLG   QuickJS https://github.com/zlgopen/awtk-quickjs ZLG   Node.js 请联系作者 ZLG     Lua     解析引擎 下载地址 作者     Lua https://github.com/zlgopen/awtk-lua ZLG     C++     解析引擎 下载地址 作者     C++98 https://github.com/zlgopen/awtk-cpp ZLG     Java     解析引擎 下载地址 作者     JDK https://github.com/zlgopen/awtk-java ZLG    编译构建工具    构建工具 编译平台 下载地址 作者     SCons PC ALL https://github.com/zlgopen/awtk ZLG   SCons ARMCC https://github.com/zlgopen/awtk-scons-armcc ZLG   SCons MinGW https://github.com/zlgopen/awtk-scons-mingw ZLG   CMake MSVC https://github.com/zlgopen/awtk-msvc ZLG   CMake macOS https://github.com/oskycar/awtktest_cmake allenyang    商业应用案例  智能家居 智能穿戴 汽车电子 医疗电子 工业控制  "
+},
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/",
+	"title": "home",
+	"tags": [],
+	"description": "",
+	"content": "Home page\n"
+},
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/awtk-v1.3/awtk-v1.3+rc.2+fix.2aworks.2/",
+	"title": "awtk-v1.3+rc.2+fix.2@aworks.2",
+	"tags": [],
+	"description": "",
+	"content": "awtk-v1.3+rc.1+fix.1@aworks.2\n"
+},
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/awtk-v1.3/awtk-v1.3+rc.3aworks.2/",
+	"title": "awtk-v1.3+rc.3@aworks.2",
+	"tags": [],
+	"description": "",
+	"content": "hello world xxxxxx 777777\n"
+},
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://tangmans.gitee.io/awtk-release/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
